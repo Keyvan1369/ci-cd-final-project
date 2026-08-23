@@ -1,0 +1,12 @@
+✓ main CI workflow - Triggered via push
+JOBS
+  ✓ build (ID 12345678)
+    ✓ Set up job
+    ✓ Checkout
+    ✓ Setup Node.js
+    ✓ Install dependencies
+    ✓ Lint with ESLint
+    ✓ Run unit tests with Jest
+    ✓ Post Setup Node.js
+    ✓ Post Checkout
+    ✓ Complete job
